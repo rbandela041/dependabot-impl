@@ -6,7 +6,7 @@
     "lint": "echo \"Lint successful\""
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "1.13.6",
     "lodash": "4.17.15"
   }
 }
